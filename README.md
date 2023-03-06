@@ -1,2 +1,3 @@
-# template-repo
-Template repository with standard files and settings
+# CertBlock
+
+Browser extension allowlist for certificate authorities.
